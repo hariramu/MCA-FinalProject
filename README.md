@@ -28,6 +28,7 @@ This project aims to demonstrate how to achieve high availability and minimal do
 - Launch template 
 - Load Balancer & Auto Scaling
 - Notification Alerts via SNS
+- Alarm triggered via CW
 
   
 
